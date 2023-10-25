@@ -59,4 +59,4 @@ layout: intro
 
 **(3) Post-produzione**
 
-- Metadata, RGB, HEX, Regolazione, Esposizione, Brillantezza, Punti di luce, Ombre, Contrasto, Luminosità, Punto nero, Saturazione, Vividezza, Temperatura, Tinta, Nitidezza, Definizione, Riduzione disturbo, Vignettatura, HDR, Correzioni, RGB, HEX, Ritaglio, Formati, Ridimensionamento, Pixel.
+- Metadati, RGB, HEX, Regolazione, Esposizione, Brillantezza, Punti di luce, Ombre, Contrasto, Luminosità, Punto nero, Saturazione, Vividezza, Temperatura, Tinta, Nitidezza, Definizione, Riduzione disturbo, Vignettatura, HDR, Correzioni, RGB, HEX, Ritaglio, Formati, Ridimensionamento, Pixel.
