@@ -49,14 +49,14 @@ layout: intro
 
 <br>
 
-**(1) Composizione**
+**[(1) Composizione](./1-composizione.md)**
 
 - Regola dei terzi, Linee guida, Simmetria, Primo piano e sfondo, Layering, Spazio negativo, Regola dello spazio, Regola delle probabilità, Intrusione, Framing, Diagonali e triangoli, Regola aurea.
 
-**(2) Tecnica**
+**(2) Tecnica** !!
 
 - Triangolo dell'esposizione, Bilanciamento del bianco, Messa a fuoco, Regola della velocità dell'otturatore, Treppiede
 
-**(3) Post-produzione**
+**(3) Post-produzione** !!
 
 - Metadati, RGB, HEX, Regolazione, Esposizione, Brillantezza, Punti di luce, Ombre, Contrasto, Luminosità, Punto nero, Saturazione, Vividezza, Temperatura, Tinta, Nitidezza, Definizione, Riduzione disturbo, Vignettatura, HDR, Correzioni, RGB, HEX, Ritaglio, Formati, Ridimensionamento, Pixel.
