@@ -52,7 +52,7 @@ layout: intro
 
 - Regola dei terzi, Linee guida, Simmetria, Primo piano e sfondo, Layering, Spazio negativo, Regola dello spazio, Regola delle probabilità, Intrusione, Framing, Diagonali e triangoli, Regola aurea.
 
-**(2) Tecnica**
+**(2) In-produzione**
 
 - Bilanciamento del bianco, Sensibilità ISO, D-lighting, Luminosità, Saturazione, Tinta, Macro, Messa a fuoco, Flash, Zoom, Treppiede
 

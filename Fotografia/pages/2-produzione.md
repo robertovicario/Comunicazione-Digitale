@@ -2,7 +2,7 @@
 layout: intro
 ---
 
-# (2) Tecnica
+# (2) Produzione
 
 <h3>Fotografia</h3>
 
