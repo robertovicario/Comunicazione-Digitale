@@ -40,5 +40,6 @@ layout: intro
     align-items: flex-end;
     padding: 20px;
 }
-
 </style>
+
+---
