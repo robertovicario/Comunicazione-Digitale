@@ -19,7 +19,7 @@ layout: intro
     </div>
   </div>
   <div class="right-column">
-    <img src="https://raw.githubusercontent.com/robertovicario/Fotografia/main/img/cover.png" width="256" alt="cover"/>
+    <img src="https://raw.githubusercontent.com/robertovicario/Fotografia/main/Fotografia/img/cover.png" width="256" alt="cover"/>
   </div>
 </div>
 

@@ -19,7 +19,7 @@ layout: intro
     </div>
   </div>
   <div class="right-column">
-    <img src="https://raw.githubusercontent.com/robertovicario/Fotografia/main/img/cover.png" width="256" alt="cover"/>
+    <img src="https://raw.githubusercontent.com/robertovicario/Fotografia/main/Fotografia/img/cover.png" width="256" alt="cover"/>
   </div>
 </div>
 
@@ -45,7 +45,7 @@ layout: intro
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Fotografia/main/img/3/1.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Fotografia/main/Fotografia/img/3/1.png'
 ---
 
 # Metadati
@@ -56,6 +56,11 @@ I metadati sono informazioni essenziali incorporate in una fotografia digitale, 
 - Fondamentale per la protezione del copyright e la concessione di licenze per le immagini.
 - Aiutano nella post-elaborazione registrando le impostazioni della fotocamera.
 
+---
+layout: intro-image-right
+image: 'https://raw.githubusercontent.com/robertovicario/Fotografia/main/Fotografia/img/3/1.png'
+---
+
 Tipologie:
 
 - EXIF (Exchangeable Image File Format): include le impostazioni della fotocamera, la data e l'ora.
@@ -64,7 +69,7 @@ Tipologie:
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Fotografia/main/img/3/2.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Fotografia/main/Fotografia/img/3/2.png'
 ---
 
 # Modello RGB
@@ -77,7 +82,7 @@ Ciascuno di questi colori può avere un valore di intensità che va da 0 a 255, 
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Fotografia/main/img/3/2.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Fotografia/main/Fotografia/img/3/2.png'
 ---
 
 Colori primari:
@@ -109,7 +114,7 @@ Combinando questi 256 diversi livelli di intensità per ciascuno dei tre colori 
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Fotografia/main/img/3/2.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Fotografia/main/Fotografia/img/3/2.png'
 ---
 
 # Modello HEX
@@ -122,7 +127,7 @@ Questo modello è basato su una notazione esadecimale che combina i valori dei t
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Fotografia/main/img/3/2.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Fotografia/main/Fotografia/img/3/2.png'
 ---
 
 Colori primari:
