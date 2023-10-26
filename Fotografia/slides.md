@@ -8,7 +8,7 @@ src: ./pages/1-composizione.md
 ---
 
 ---
-src: ./pages/2-tecnica.md
+src: ./pages/2-produzione.md
 ---
 
 ---
