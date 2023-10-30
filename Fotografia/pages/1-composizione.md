@@ -133,9 +133,9 @@ layout: intro-image-right
 image: https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/8.png
 ---
 
-# Regola delle probabilità
+# Regola del dispari
 
-La regola delle probabilità è una linea guida di composizione in fotografia che suggerisce che un numero dispari di soggetti (di solito 3 o 5) in un'immagine è visivamente più attraente e crea equilibrio e interesse.
+La regola del dispari è una linea guida di composizione in fotografia che suggerisce che un numero dispari di soggetti (di solito 3 o 5) in un'immagine è visivamente più attraente e crea equilibrio e interesse.
 
 - Il numero dispari crea un senso di asimmetria e previene la monotonia visiva.
 - Si usa comunemente per soggetti come persone, oggetti o elementi della natura.
