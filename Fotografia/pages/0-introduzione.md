@@ -50,7 +50,7 @@ layout: intro
 
 **(1) Composizione**
 
-- Regola dei terzi, Linee guida, Simmetria, Primo piano e sfondo, Layering, Spazio negativo, Regola dello spazio, Regola delle probabilità, Intrusione, Framing, Diagonali e triangoli, Regola aurea.
+- Regola dei terzi, Linee guida, Simmetria, Primo piano e sfondo, Layering, Spazio negativo, Regola dello spazio, Regola del dispari, Intrusione, Framing, Diagonali e triangoli, Regola aurea.
 
 **(2) Produzione**
 
