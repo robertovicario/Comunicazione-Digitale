@@ -46,5 +46,3 @@ layout: intro
 layout: intro-image-right
 image: https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/1.png
 ---
-
-# Bilanciamento del bianco
