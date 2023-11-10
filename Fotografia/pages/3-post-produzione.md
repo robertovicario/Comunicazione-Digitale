@@ -1,5 +1,7 @@
 ---
 layout: intro
+
+transition: slide-left
 ---
 
 # (3) Post-produzione
@@ -43,6 +45,8 @@ layout: intro
 </style>
 
 ---
+transition: slide-left
+
 layout: intro-image-right
 image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/1.png'
 ---
@@ -58,6 +62,30 @@ Formati comuni:
 - **SVG**: Un formato di file basato su XML per descrivere la grafica vettoriale.
 
 ---
+transition: fade
+
+layout: intro-image-right
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
+---
+
+# Pixel
+
+I pixel sono l'unità più piccola di un'immagine, contengono informazioni sul suo colore e sulla sua luminosità.
+
+- La combinazione di milioni di pixel crea l'immagine complessiva.
+
+Formula:
+
+- $\text{Risoluzione} = \text{Larghezza} \times \text{Altezza}$
+
+Dimensioni comuni:
+
+- **Full HD**: 1920x1080 pixel
+- **4K**: 3840x2160 pixel
+
+---
+transition: fade
+
 layout: intro-image-right
 image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/3.png'
 ---
@@ -78,15 +106,30 @@ Dimensioni comuni:
 - **4K**: 3840x2160 pixel
 
 ---
-layout: 3-images
-imageLeft: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
-imageTopRight: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/3.png'
-imageBottomRight: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/4.png'
+transition: fade
+
+layout: intro-image-right
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/4.png'
 ---
+
+# Pixel
+
+I pixel sono l'unità più piccola di un'immagine, contengono informazioni sul suo colore e sulla sua luminosità.
+
+- La combinazione di milioni di pixel crea l'immagine complessiva.
+
+Formula:
+
+- $\text{Risoluzione} = \text{Larghezza} \times \text{Altezza}$
+
+Dimensioni comuni:
+
+- **Full HD**: 1920x1080 pixel
+- **4K**: 3840x2160 pixel
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/6.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/5.png'
 ---
 
 # Dimensioni
@@ -101,8 +144,10 @@ image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/
 | 16 : 9 | YouTube | Banner, Thumbnail, Video |
 
 ---
+transition: slide-left
+
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/3.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/7.png'
 ---
 
 # Ritagliare e ridimensionare
@@ -110,8 +155,10 @@ image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/
 paragraph
 
 ---
+transition: fade
+
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/8.png'
 ---
 
 # Scontornare
@@ -119,8 +166,10 @@ image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/
 paragraph
 
 ---
+transition: slide-left
+
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/3.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/9.png'
 ---
 
 # Scontornare
@@ -128,8 +177,10 @@ image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/
 paragraph
 
 ---
+transition: slide-left
+
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/3.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/10.png'
 ---
 
 # Modello RGB
@@ -141,6 +192,8 @@ Ciascuno di questi colori può avere un valore di intensità che va da 0 a 255, 
 È possibile rappresentare un colore in RGB utilizzando il seguente formato: `rgb(R, G, B)`.
 
 ---
+transition: slide-left
+
 layout: intro-image-right
 image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
 ---
@@ -163,6 +216,8 @@ Altri colori:
 - Nero: `rgb(0, 0, 0)`
 
 ---
+transition: slide-left
+
 layout: fact
 ---
 
@@ -173,6 +228,8 @@ layout: fact
 Combinando questi 256 diversi livelli di intensità per ciascuno dei tre colori primari, è possibile creare un totale di $256^3 = 16.777.216$ colori diversi nel modello di colore RGB.
 
 ---
+transition: slide-left
+
 layout: intro-image-right
 image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
 ---
@@ -186,6 +243,8 @@ Questo modello è basato su una notazione esadecimale che combina i valori dei t
 È possibile rappresentare un colore in HEX utilizzando il seguente formato: `#RRGGBB`, dove `RR`, `GG`, e `BB` rappresentano rispettivamente le prime due cifre del colore primario rosso, verde e blu.
 
 ---
+transition: slide-left
+
 layout: intro-image-right
 image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
 ---
@@ -208,6 +267,8 @@ Altri colori:
 - Nero: `#000000`
 
 ---
+transition: slide-left
+
 layout: fact
 ---
 
@@ -217,6 +278,8 @@ layout: fact
 
 Combinando questi 16 diversi livelli di intensità per ciascuno dei tre colori primari, è possibile creare un totale di $16^6 = 16.777.216$ colori diversi nel modello di colore HEX.
 
+---
+transition: slide-left
 ---
 
 # Crediti
