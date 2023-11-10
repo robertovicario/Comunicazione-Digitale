@@ -43,7 +43,8 @@ layout: intro
 </style>
 
 ---
-layout: intro-image-right
+layout: image-right
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/1.png'
 ---
 
 # Regola dei terzi
@@ -54,7 +55,8 @@ La regola dei terzi è una tecnica di composizione fondamentale in fotografia. D
 - Allineare l'orizzonte con le linee orizzontali (in alto o in basso).
 
 ---
-layout: intro-image-right
+layout: image-right
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/2.png'
 ---
 
 # Linee guida
@@ -66,7 +68,8 @@ Le linee guida sono una tecnica di composizione fotografica in cui le linee all'
 - Utilizzate le linee guida per attirare l'attenzione dell'osservatore e creare una composizione più coinvolgente e dinamica.
 
 ---
-layout: intro-image-right
+layout: image-right
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/3.png'
 ---
 
 # Simmetria
@@ -77,7 +80,8 @@ La simmetria in fotografia è la pratica di creare immagini equilibrate e armoni
 - La simmetria può essere orizzontale, verticale o radiale.
 
 ---
-layout: intro-image-right
+layout: image-right
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/4.png'
 ---
 
 # Primo piano e sfondo
@@ -89,7 +93,8 @@ In fotografia, il primo piano e lo sfondo sono componenti fondamentali della com
 - Bilanciare e armonizzare questi elementi è fondamentale per creare fotografie coinvolgenti e piacevoli alla vista.
 
 ---
-layout: intro-image-right
+layout: image-right
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/5.png'
 ---
 
 # Layering
@@ -101,7 +106,8 @@ Il layering è una tecnica di composizione che aggiunge profondità e dimensione
 - La zona intermedia fornisce ulteriore interesse e contesto, mentre lo sfondo spesso mette in evidenza il soggetto.
 
 ---
-layout: intro-image-right
+layout: image-right
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/6.png'
 ---
 
 # Spazio negativo
@@ -111,7 +117,8 @@ Lo spazio negativo si riferisce alle aree non occupate o vuote intorno e tra i s
 - Lo spazio negativo migliora l'isolamento del soggetto e attira l'attenzione sul soggetto principale.
 
 ---
-layout: intro-image-right
+layout: image-right
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/7.png'
 ---
 
 # Regola dello spazio
@@ -122,7 +129,8 @@ La regola dello spazio è un principio di composizione in fotografia che prevede
 - Spesso utilizzato in scatti d'azione, ritratti e fotografia naturalistica.
 
 ---
-layout: intro-image-right
+layout: image-right
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/8.png'
 ---
 
 # Regola dei numeri dispari
@@ -133,7 +141,8 @@ La regola del dispari è una linea guida di composizione in fotografia che sugge
 - Si usa comunemente per soggetti come persone, oggetti o elementi della natura.
 
 ---
-layout: intro-image-right
+layout: image-right
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/9.png'
 ---
 
 # Intrusione
@@ -144,7 +153,8 @@ L'intrusione è una tecnica di composizione in fotografia in cui un elemento o u
 - L'elemento "intruso" può essere usato per attirare l'attenzione dell'osservatore su una parte specifica dell'immagine.
 
 ---
-layout: intro-image-right
+layout: image-right
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/10.png'
 ---
 
 # Framing
@@ -154,7 +164,8 @@ Il framing è una tecnica di composizione in fotografia che prevede l'utilizzo d
 - La cornice può essere un elemento architettonico, la vegetazione o qualsiasi oggetto che racchiuda il soggetto.
 
 ---
-layout: intro-image-right
+layout: image-right
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/11.png'
 ---
 
 # Diagonali e triangoli
@@ -165,7 +176,8 @@ Diagonali e triangoli sono elementi compositivi che aggiungono dinamismo visivo 
 - Triangoli: Disposizione degli elementi in una forma triangolare, che fornisce equilibrio, stabilità e un punto di interesse.
 
 ---
-layout: intro-image-right
+layout: image-right
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/12.png'
 ---
 
 # Regola aurea
