@@ -133,7 +133,7 @@ layout: intro-image-right
 image: https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/8.png
 ---
 
-# Regola del dispari
+# Regola dei numeri dispari
 
 La regola del dispari è una linea guida di composizione in fotografia che suggerisce che un numero dispari di soggetti (di solito 3 o 5) in un'immagine è visivamente più attraente e crea equilibrio e interesse.
 
