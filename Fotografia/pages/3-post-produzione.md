@@ -102,61 +102,34 @@ image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/7.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/3.png'
 ---
 
 # Ritagliare e ridimensionare
 
-- *Crop:* Removing unwanted portions of an image.
-- *Resize:* Changing the dimensions of an image.
-
-2. **Purpose:**
-   - *Crop:* Emphasizes a specific subject, eliminates distractions.
-   - *Resize:* Adjusts overall image dimensions for various purposes.
-
-3. **Tools:**
-   - *Crop Tool:* Select area to keep, discard the rest.
-   - *Resize Tool:* Modify width and height independently or proportionally.
+paragraph
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/6.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
 ---
 
 # Scontornare
 
-Certainly! Creating a concise explanation for a slide on "cut-out" in editing could go something like this:
-
-**Slide Title: Cut-Out in Editing**
-
-1. **Definition:**
-   - **Cut-out** refers to the process of isolating a specific object or subject in an image or video and removing its background.
-
-2. **Purpose:**
-   - **Isolation:** Allows you to separate elements from their original context.
-   - **Focus:** Emphasizes the cut-out subject by eliminating distractions.
-
-3. **Techniques:**
-   - **Manual Selection:** Use tools like lasso or pen to outline the subject.
-   - **Automated Tools:** Utilize software with AI-driven cut-out features for quicker results.
-
-4. **Applications:**
-   - **Graphic Design:** Incorporate cut-outs into design projects.
-   - **Photo Manipulation:** Create surreal or composite images.
-   - **Video Editing:** Enhance storytelling by isolating and emphasizing specific elements.
-
-5. **Tips:**
-   - **Precision is Key:** Ensure clean edges for a seamless integration.
-   - **Consistent Lighting:** Match the lighting of the cut-out with the new background.
-
-6. **Examples:**
-   - Include before-and-after images showcasing the impact of cut-out editing.
-
-Remember to use visuals effectively to illustrate the process and results of cut-out editing.
+paragraph
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/6.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/3.png'
+---
+
+# Scontornare
+
+paragraph
+
+---
+layout: intro-image-right
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/3.png'
 ---
 
 # Modello RGB
