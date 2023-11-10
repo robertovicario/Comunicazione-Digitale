@@ -1,5 +1,4 @@
 ---
-transition: slide-up
 layout: intro
 ---
 
@@ -44,8 +43,6 @@ layout: intro
 </style>
 
 ---
-transition: slide-up
----
 
 # Programma
 
@@ -57,8 +54,8 @@ transition: slide-up
 
 **(2) Produzione**
 
-- Bilanciamento del bianco, Sensibilità ISO, D-lighting, Luminosità, Saturazione, Tinta, Macro, Messa a fuoco, Flash, Zoom, Treppiede
+-
 
-**(3) Post-produzione** !!
+**(3) Post-produzione**
 
-- Metadati, Formato dei file, RGB, HEX, EDITING, Pixel, Ritaglio e ridimensionamento.
+-
