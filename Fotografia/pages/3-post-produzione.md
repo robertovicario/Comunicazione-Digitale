@@ -86,8 +86,19 @@ imageBottomRight: 'https://raw.githubusercontent.com/robertovicario/Comunicazion
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/1.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/5.png'
 ---
+
+# Frame
+
+| Dimensione | Piattaforma | Descrizione |
+|------------|-------------|-------------|
+| 1 : 1 | Instagram | Post |
+| 4 : 5 | Instagram | Portrait |
+| 9 : 16 | Instagram | Storia |
+| 16 : 9 | Twitter | Tweet |
+| 3 : 1 | Twitter | Cover |
+| 16 : 9 | YouTube | Banner, Thumbnail, Video |
 
 ---
 
