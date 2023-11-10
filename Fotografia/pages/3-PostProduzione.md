@@ -1,7 +1,6 @@
 ---
+transition: slide-up
 layout: intro
-
-transition: slide-down
 ---
 
 # (3) Post-produzione
@@ -45,10 +44,9 @@ transition: slide-down
 </style>
 
 ---
-transition: slide-down
-
+transition: slide-up
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/1.png'
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/1.png'
 ---
 
 # Formati
@@ -62,10 +60,9 @@ Formati comuni:
 - **SVG**: Un formato di file basato su XML per descrivere la grafica vettoriale.
 
 ---
-transition: fade
-
+transition: slide-up
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
 ---
 
 # Pixel
@@ -84,10 +81,9 @@ Dimensioni comuni:
 - **4K**: 3840x2160 pixel
 
 ---
-transition: fade
-
+transition: slide-up
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/3.png'
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/3.png'
 ---
 
 # Pixel
@@ -106,10 +102,9 @@ Dimensioni comuni:
 - **4K**: 3840x2160 pixel
 
 ---
-transition: fade
-
+transition: slide-up
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/4.png'
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/4.png'
 ---
 
 # Pixel
@@ -128,10 +123,9 @@ Dimensioni comuni:
 - **4K**: 3840x2160 pixel
 
 ---
-transition: slide-down
-
+transition: slide-up
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/5.png'
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/5.png'
 ---
 
 # Dimensioni
@@ -146,10 +140,9 @@ image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/
 | 16 : 9 | YouTube | Banner, Thumbnail, Video |
 
 ---
-transition: slide-down
-
+transition: slide-up
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/7.png'
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/7.png'
 ---
 
 # Ritagliare e ridimensionare
@@ -157,10 +150,9 @@ image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/
 paragraph
 
 ---
-transition: fade
-
+transition: slide-up
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/8.png'
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/8.png'
 ---
 
 # Scontornare
@@ -168,10 +160,9 @@ image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/
 paragraph
 
 ---
-transition: slide-down
-
+transition: slide-up
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/9.png'
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/9.png'
 ---
 
 # Scontornare
@@ -179,10 +170,9 @@ image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/
 paragraph
 
 ---
-transition: slide-down
-
+transition: slide-up
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/10.png'
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/10.png'
 ---
 
 # Modello RGB
@@ -194,10 +184,9 @@ Ciascuno di questi colori può avere un valore di intensità che va da 0 a 255, 
 È possibile rappresentare un colore in RGB utilizzando il seguente formato: `rgb(R, G, B)`.
 
 ---
-transition: slide-down
-
+transition: slide-up
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
 ---
 
 Colori primari:
@@ -218,8 +207,7 @@ Altri colori:
 - Nero: `rgb(0, 0, 0)`
 
 ---
-transition: slide-down
-
+transition: slide-up
 layout: fact
 ---
 
@@ -230,10 +218,9 @@ layout: fact
 Combinando questi 256 diversi livelli di intensità per ciascuno dei tre colori primari, è possibile creare un totale di $256^3 = 16.777.216$ colori diversi nel modello di colore RGB.
 
 ---
-transition: slide-down
-
+transition: slide-up
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
 ---
 
 # Modello HEX
@@ -245,10 +232,9 @@ Questo modello è basato su una notazione esadecimale che combina i valori dei t
 È possibile rappresentare un colore in HEX utilizzando il seguente formato: `#RRGGBB`, dove `RR`, `GG`, e `BB` rappresentano rispettivamente le prime due cifre del colore primario rosso, verde e blu.
 
 ---
-transition: slide-down
-
+transition: slide-up
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
+image 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
 ---
 
 Colori primari:
@@ -269,8 +255,7 @@ Altri colori:
 - Nero: `#000000`
 
 ---
-transition: slide-down
-
+transition: slide-up
 layout: fact
 ---
 
@@ -281,7 +266,7 @@ layout: fact
 Combinando questi 16 diversi livelli di intensità per ciascuno dei tre colori primari, è possibile creare un totale di $16^6 = 16.777.216$ colori diversi nel modello di colore HEX.
 
 ---
-transition: slide-down
+transition: slide-up
 ---
 
 # Crediti

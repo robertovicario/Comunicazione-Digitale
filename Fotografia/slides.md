@@ -4,13 +4,17 @@ src: ./pages/0-introduzione.md
 ---
 
 ---
-src: ./pages/1-composizione.md
+src: ./pages/0-Introduzione.md
 ---
 
 ---
-src: ./pages/2-produzione.md
+src: ./pages/1-Composizione.md
 ---
 
 ---
-src: ./pages/3-post-produzione.md
+src: ./pages/2-Produzione.md
+---
+
+---
+src: ./pages/3-PostProduzione.md
 ---

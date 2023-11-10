@@ -1,4 +1,5 @@
 ---
+transition: slide-up
 layout: intro
 ---
 
@@ -42,6 +43,8 @@ layout: intro
 }
 </style>
 
+---
+transition: slide-up
 ---
 
 # Programma

@@ -1,4 +1,5 @@
 ---
+transition: slide-up
 layout: intro
 ---
 
@@ -187,6 +188,8 @@ La regola aurea, nota anche come spirale di Fibonacci, è una linea guida di com
 - La griglia del rapporto aureo aiuta i fotografi a posizionare gli elementi chiave in modo da ottenere un equilibrio naturale e un'estetica gradevole.
 - Viene spesso utilizzata per posizionare il soggetto principale, l'orizzonte o i punti focali all'interno dell'inquadratura.
 
+---
+transition: slide-up
 ---
 
 # Crediti

@@ -1,4 +1,5 @@
 ---
+transition: slide-up
 layout: intro
 ---
 
