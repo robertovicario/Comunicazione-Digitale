@@ -47,7 +47,7 @@ layout: intro-image-right
 image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/1.png'
 ---
 
-# Formati dei file
+# Formati
 
 I formati dei file svolgono un ruolo cruciale nel processo di editing, determinando il modo in cui i contenuti digitali vengono memorizzati e manipolati.
 
@@ -86,10 +86,10 @@ imageBottomRight: 'https://raw.githubusercontent.com/robertovicario/Comunicazion
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/5.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/6.png'
 ---
 
-# Frame
+# Dimensioni
 
 | Dimensione | Piattaforma | Descrizione |
 |------------|-------------|-------------|
