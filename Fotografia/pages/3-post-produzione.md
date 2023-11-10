@@ -53,9 +53,9 @@ I formati dei file svolgono un ruolo cruciale nel processo di editing, determina
 
 Formati comuni:
 
-- JPEG (Joint Photographic Experts Group): Compressione con perdita, adatto alla stampa digitale.
-- PNG (Portable Network Graphics): Compressione senza perdite, ideale per la grafica digitale.
-- SVG (Scalable Vector Graphics): Un formato di file basato su XML per descrivere la grafica vettoriale.
+- JPG: Compressione con perdita, adatto alla stampa digitale.
+- PNG: Compressione senza perdite, ideale per la grafica digitale.
+- SVG: Un formato di file basato su XML per descrivere la grafica vettoriale.
 
 ---
 layout: intro-image-right
@@ -68,20 +68,14 @@ I pixel sono l'unità più piccola di un'immagine, contengono informazioni sul s
 
 - La combinazione di milioni di pixel crea l'immagine complessiva.
 
+Formula:
+
+- $\text{Risoluzione} = \text{Larghezza} \times \text{Altezza}$
+
 Dimensioni comuni:
 
 - Full HD: 1920x1080 pixel
 - 4K: 3840x2160 pixel
-
----
-layout: fact
----
-
-# Formula
-
-<br>
-
-## $\text{Risoluzione} = \text{Larghezza} \times \text{Altezza}$
 
 ---
 layout: 3-images
@@ -95,28 +89,6 @@ layout: intro-image-right
 image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/1.png'
 ---
 
-# Metadati
-
-I metadati sono informazioni essenziali incorporate in una fotografia digitale, che forniscono dettagli sull'immagine.
-
-- Aiutano i fotografi a organizzare, cercare e gestire le loro collezioni di foto.
-- Fondamentale per la protezione del copyright e la concessione di licenze per le immagini.
-- Aiutano nella post-elaborazione registrando le impostazioni della fotocamera.
-
----
-layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/1.png'
----
-
-Tipologie:
-
-- EXIF (Exchangeable Image File Format): include le impostazioni della fotocamera, la data e l'ora.
-- IPTC (International Press Telecommunications Council): per didascalie e copyright.
-- XMP (Extensible Metadata Platform): per informazioni aggiuntive come parole chiave e cronologia di modifica.
-
----
-layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
 ---
 
 # Modello RGB
