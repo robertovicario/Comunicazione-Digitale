@@ -44,19 +44,19 @@ layout: intro
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/1.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
 ---
 
 # Pixel
 
+paragraph
 
 ---
-layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/1.png'
+layout: 3-images
+imageLeft: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/1.png'
+imageTopRight: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
+imageBottomRight: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/3.png'
 ---
-
-# Pixel
-
 
 ---
 layout: intro-image-right
