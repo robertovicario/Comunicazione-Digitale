@@ -49,7 +49,23 @@ image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/
 
 # Pixel
 
-paragraph
+I pixel sono l'unità più piccola di un'immagine, contengono informazioni sul suo colore e sulla sua luminosità.
+
+- La combinazione di milioni di pixel crea l'immagine complessiva.
+
+Dimensioni comuni:
+  - Full HD: 1920x1080 pixel
+  - 4K: 3840x2160 pixel
+
+---
+layout: fact
+---
+
+# Formula
+
+<br>
+
+## $\text{Risoluzione} = \text{Larghezza} \times \text{Altezza}$
 
 ---
 layout: 3-images
