@@ -44,7 +44,7 @@ layout: intro
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/1.png'
 ---
 
 # Pixel
