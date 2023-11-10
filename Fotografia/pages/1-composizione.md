@@ -44,7 +44,6 @@ layout: intro
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/1.png'
 ---
 
 # Regola dei terzi
@@ -56,8 +55,6 @@ La regola dei terzi è una tecnica di composizione fondamentale in fotografia. D
 
 ---
 layout: intro-image-right
-
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/2.png'
 ---
 
 # Linee guida
@@ -70,7 +67,6 @@ Le linee guida sono una tecnica di composizione fotografica in cui le linee all'
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/3.png'
 ---
 
 # Simmetria
@@ -82,7 +78,6 @@ La simmetria in fotografia è la pratica di creare immagini equilibrate e armoni
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/4.png'
 ---
 
 # Primo piano e sfondo
@@ -95,7 +90,6 @@ In fotografia, il primo piano e lo sfondo sono componenti fondamentali della com
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/5.png'
 ---
 
 # Layering
@@ -108,7 +102,6 @@ Il layering è una tecnica di composizione che aggiunge profondità e dimensione
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/6.png'
 ---
 
 # Spazio negativo
@@ -119,7 +112,6 @@ Lo spazio negativo si riferisce alle aree non occupate o vuote intorno e tra i s
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/7.png'
 ---
 
 # Regola dello spazio
@@ -131,7 +123,6 @@ La regola dello spazio è un principio di composizione in fotografia che prevede
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/8.png'
 ---
 
 # Regola dei numeri dispari
@@ -143,7 +134,6 @@ La regola del dispari è una linea guida di composizione in fotografia che sugge
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/9.png'
 ---
 
 # Intrusione
@@ -155,7 +145,6 @@ L'intrusione è una tecnica di composizione in fotografia in cui un elemento o u
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/10.png'
 ---
 
 # Framing
@@ -166,7 +155,6 @@ Il framing è una tecnica di composizione in fotografia che prevede l'utilizzo d
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/11.png'
 ---
 
 # Diagonali e triangoli
@@ -178,7 +166,6 @@ Diagonali e triangoli sono elementi compositivi che aggiungono dinamismo visivo 
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/1/12.png'
 ---
 
 # Regola aurea
