@@ -44,6 +44,22 @@ layout: intro
 
 ---
 layout: intro-image-right
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
+---
+
+# Pixel
+
+
+---
+layout: intro-image-right
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/1.png'
+---
+
+# Pixel
+
+
+---
+layout: intro-image-right
 image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/1.png'
 ---
 
@@ -155,3 +171,19 @@ layout: fact
 <br>
 
 Combinando questi 16 diversi livelli di intensità per ciascuno dei tre colori primari, è possibile creare un totale di $16^6 = 16.777.216$ colori diversi nel modello di colore HEX.
+
+---
+
+# Crediti
+
+- Le immagini utilizzate sono di proprietà di alcuni dei creatori di [Pexels](https://www.pexels.com).
+
+<div class="two-column-container">
+  <div class="left-column">
+    <div class="absolute bottom-10">
+      <span class="font-700" style="color: #dd4a86">
+        Nunchi © 2023. All rights reserved.
+      </span>
+    </div>
+  </div>
+</div>
