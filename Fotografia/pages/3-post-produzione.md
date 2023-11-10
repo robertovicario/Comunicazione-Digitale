@@ -44,7 +44,22 @@ layout: intro
 
 ---
 layout: intro-image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/1.png'
+---
+
+# Formati dei file
+
+I formati dei file svolgono un ruolo cruciale nel processo di editing, determinando il modo in cui i contenuti digitali vengono memorizzati e manipolati.
+
+Formati comuni:
+
+- JPEG (Joint Photographic Experts Group): Compressione con perdita, adatto alla stampa digitale.
+- PNG (Portable Network Graphics): Compressione senza perdite, ideale per la grafica digitale.
+- SVG (Scalable Vector Graphics): Un formato di file basato su XML per descrivere la grafica vettoriale.
+
+---
+layout: intro-image-right
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/3.png'
 ---
 
 # Pixel
@@ -54,8 +69,9 @@ I pixel sono l'unità più piccola di un'immagine, contengono informazioni sul s
 - La combinazione di milioni di pixel crea l'immagine complessiva.
 
 Dimensioni comuni:
-  - Full HD: 1920x1080 pixel
-  - 4K: 3840x2160 pixel
+
+- Full HD: 1920x1080 pixel
+- 4K: 3840x2160 pixel
 
 ---
 layout: fact
@@ -69,9 +85,9 @@ layout: fact
 
 ---
 layout: 3-images
-imageLeft: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/1.png'
-imageTopRight: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
-imageBottomRight: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/3.png'
+imageLeft: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/2.png'
+imageTopRight: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/3.png'
+imageBottomRight: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/Fotografia/img/3/4.png'
 ---
 
 ---
