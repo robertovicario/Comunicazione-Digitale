@@ -178,7 +178,7 @@ Ciascuno di questi colori può avere un valore di intensità che va da 0 a 255, 
 
 ---
 layout: image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/2.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/10.png'
 ---
 
 Colori primari:
@@ -210,7 +210,7 @@ Combinando questi 256 diversi livelli di intensità per ciascuno dei tre colori 
 
 ---
 layout: image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/2.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/10.png'
 ---
 
 # Modello HEX
@@ -223,7 +223,7 @@ Questo modello è basato su una notazione esadecimale che combina i valori dei t
 
 ---
 layout: image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/2.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/10.png'
 ---
 
 Colori primari:
@@ -252,6 +252,88 @@ layout: fact
 <br>
 
 Combinando questi 16 diversi livelli di intensità per ciascuno dei tre colori primari, è possibile creare un totale di $16^6 = 16.777.216$ colori diversi nel modello di colore HEX.
+
+---
+layout: image-right
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/11.png'
+---
+
+# Luce
+
+| Proprietà | Descrizione |
+|-----------|-------------|
+| Brillantezza | Indica la quantità di luce presente in un'immagine. Valori più alti indicano un'immagine più luminosa, mentre valori più bassi la rendono più scura. |
+| Esposizione | Rappresenta la quantità di luce che colpisce il sensore della fotocamera. Un'adeguata esposizione è cruciale per ottenere immagini bilanciate e dettagliate. |
+| Ombre | Si riferisce alla parte più scura di un'immagine, spesso utilizzata per regolare i dettagli nelle zone in ombra senza influenzare le aree più luminose. |
+| Luminosità | Indica la quantità totale di luce presente in un'immagine. Può essere utilizzato per regolare globalmente la luminosità dell'intera immagine. |
+| Contrasto | Rappresenta la differenza tra le zone più chiare e più scure di un'immagine. Un contrasto elevato porta a una marcata differenza tra luci e ombre. |
+| Punti di luce | Si riferisce alle aree più luminose di un'immagine, spesso utilizzate per evidenziare determinati dettagli o elementi. |
+| Punto di nero | Indica l'area più scura di un'immagine, utile per definire il livello minimo di nero presente nella foto. |
+
+---
+layout: image-right
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/12.png'
+---
+
+# Colori
+
+| Proprietà | Descrizione |
+|-----------|-------------|
+| Saturazione | Rappresenta l'intensità o la vividezza dei colori presenti in un'immagine. Un valore alto indica colori più intensi, mentre un valore basso li rende più smorzati o grigi. |
+| Temperatura | La temperatura del colore si riferisce alla tonalità di colore generale di un'immagine. Può essere misurata in gradi Kelvin (K), con temperature più basse che producono tonalità calde (come rosso, arancione) e temperature più alte che generano tonalità fredde (come blu). |
+---
+layout: image-right
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/13.png'
+---
+
+# Nitidezza
+
+paragraph
+
+---
+layout: image-right
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/14.png'
+---
+
+# HDR
+
+paragraph
+
+---
+layout: image-right
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/15.png'
+---
+
+# Bilanciamento del bianco
+
+paragraph
+
+---
+layout: image-right
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/16.png'
+---
+
+# Colore selettivo
+
+paragraph
+
+---
+layout: image-right
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/17.png'
+---
+
+# Ritocchi
+
+paragraph
+
+---
+layout: image-right
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/18.png'
+---
+
+# Riduzione del disturbo
+
+paragraph
 
 ---
 
