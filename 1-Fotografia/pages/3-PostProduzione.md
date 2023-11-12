@@ -156,7 +156,7 @@ paragraph
 
 ---
 layout: image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/9.webp'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/9.png'
 ---
 
 # Scontornare
