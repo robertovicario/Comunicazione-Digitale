@@ -140,9 +140,13 @@ layout: image-right
 image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/1.png'
 ---
 
-# Ritagliare e ridimensionare
+## Cut-and-resize
 
-paragraph
+La tecnica del cut-and-resize rappresenta un approccio integrato che combina le azioni di ritagliare e ridimensionare prima di procedere con l'elaborazione di un'immagine.
+
+- Il ritaglio consente di selezionare e isolare una porzione specifica dell'immagine, eliminando in modo efficace le parti indesiderate e concentrando l'attenzione solo su ciò che è rilevante.
+
+- Il ridimensionamento offre la possibilità di modificare le dimensioni dell'intera immagine in modo uniforme, consentendo di aumentare o diminuire le dimensioni senza alcuna distorsione.
 
 ---
 transition: fade
@@ -152,7 +156,11 @@ image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/
 
 # Scontornare
 
-paragraph
+| Strumento | Descrizione |
+|-----------|-------------|
+| Gomma magica | Consente di eliminare automaticamente parti di un'immagine. |
+| Lazo | Consente di selezionare e isolare porzioni specifiche dell'immagine che richiedono interventi di scontorno. |
+| Pennello | Consente di dipingere manualmente o sfumare i bordi di un'area selezionata.|
 
 ---
 layout: image-right
@@ -161,7 +169,11 @@ image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/
 
 # Scontornare
 
-paragraph
+| Strumento | Descrizione |
+|-----------|-------------|
+| Gomma magica | Consente di eliminare automaticamente parti di un'immagine. |
+| Lazo | Consente di selezionare e isolare porzioni specifiche dell'immagine che richiedono interventi di scontorno. |
+| Pennello | Consente di dipingere manualmente o sfumare i bordi di un'area selezionata.|
 
 ---
 layout: image-right
@@ -172,9 +184,9 @@ image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/
 
 Il modello RGB (Red, Green, Blue) è un modello di colore ampiamente utilizzato nelle immagini e nei display digitali.
 
-Ciascuno di questi colori può avere un valore di intensità che va da 0 a 255, dove 0 rappresenta l'assenza di intensità e 255 rappresenta l'intensità massima. Combinando diversi livelli di questi tre colori primari, è possibile creare un'ampia gamma di colori.
+- Ciascuno di questi colori può avere un valore di intensità che va da 0 a 255, dove 0 rappresenta l'assenza di intensità e 255 rappresenta l'intensità massima. Combinando diversi livelli di questi tre colori primari, è possibile creare un'ampia gamma di colori.
 
-È possibile rappresentare un colore in RGB utilizzando il seguente formato: `rgb(R, G, B)`.
+- È possibile rappresentare un colore in RGB utilizzando il seguente formato: `rgb(R, G, B)`.
 
 ---
 layout: image-right
@@ -217,9 +229,9 @@ image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/
 
 Il modello HEX (Hexadecimal) è un altro sistema di rappresentazione dei colori, spesso utilizzato in progettazione grafica, sviluppo web e codice HTML.
 
-Questo modello è basato su una notazione esadecimale che combina i valori dei tre colori primari.
+- Questo modello è basato su una notazione esadecimale che combina i valori dei tre colori primari.
 
-È possibile rappresentare un colore in HEX utilizzando il seguente formato: `#RRGGBB`, dove `RR`, `GG`, e `BB` rappresentano rispettivamente le prime due cifre del colore primario rosso, verde e blu.
+- È possibile rappresentare un colore in HEX utilizzando il seguente formato: `#RRGGBB`, dove `RR`, `GG`, e `BB` rappresentano rispettivamente le prime due cifre del colore primario rosso, verde e blu.
 
 ---
 layout: image-right
@@ -262,13 +274,13 @@ image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/
 
 | Proprietà | Descrizione |
 |-----------|-------------|
-| Brillantezza | Indica la quantità di luce presente in un'immagine. Valori più alti indicano un'immagine più luminosa, mentre valori più bassi la rendono più scura. |
-| Esposizione | Rappresenta la quantità di luce che colpisce il sensore della fotocamera. Un'adeguata esposizione è cruciale per ottenere immagini bilanciate e dettagliate. |
-| Ombre | Si riferisce alla parte più scura di un'immagine, spesso utilizzata per regolare i dettagli nelle zone in ombra senza influenzare le aree più luminose. |
-| Luminosità | Indica la quantità totale di luce presente in un'immagine. Può essere utilizzato per regolare globalmente la luminosità dell'intera immagine. |
-| Contrasto | Rappresenta la differenza tra le zone più chiare e più scure di un'immagine. Un contrasto elevato porta a una marcata differenza tra luci e ombre. |
-| Punti di luce | Si riferisce alle aree più luminose di un'immagine, spesso utilizzate per evidenziare determinati dettagli o elementi. |
-| Punto di nero | Indica l'area più scura di un'immagine, utile per definire il livello minimo di nero presente nella foto. |
+| Esposizione | La quantità complessiva di luce che colpisce il sensore della fotocamera o l'occhio umano. Un'alta esposizione rende l'immagine più luminosa, mentre una bassa esposizione la rende più scura. |
+| Brillantezza | La qualità generale di luminosità di un'immagine, influenzata dalla combinazione di esposizione e intensità delle luci presenti. Una brillantezza elevata conferisce un aspetto vivace e radiante. |
+| Punti di luce | Le sorgenti luminose presenti nell'immagine, come riflessi, luci artificiali o naturali. Possono essere utilizzati per creare punti focali o aggiungere elementi di interesse. |
+| Ombre | Le aree più scure di un'immagine, create dalla presenza di oggetti opachi o da una distribuzione irregolare della luce. Le ombre contribuiscono a definire la profondità e la forma. |
+| Contrasto | La differenza di luminosità tra le parti più chiare e più scure di un'immagine. Un alto contrasto crea una distinzione accentuata tra i dettagli, mentre un basso contrasto produce un aspetto più morbido. |
+| Luminosità | La percezione globale di quanto un'immagine sia luminosa o oscura. Può essere regolata per modificare l'aspetto complessivo dell'immagine senza influenzare il contrasto. |
+| Punto nero | Il punto più scuro di un'immagine, spesso impostato per definire il livello massimo di scurità. La regolazione del punto nero può influire sulla profondità delle ombre e sull'aspetto generale delle aree più scure. |
 
 ---
 layout: image-right
@@ -279,16 +291,24 @@ image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/
 
 | Proprietà | Descrizione |
 |-----------|-------------|
-| Saturazione | Rappresenta l'intensità o la vividezza dei colori presenti in un'immagine. Un valore alto indica colori più intensi, mentre un valore basso li rende più smorzati o grigi. |
-| Temperatura | La temperatura del colore si riferisce alla tonalità di colore generale di un'immagine. Può essere misurata in gradi Kelvin (K), con temperature più basse che producono tonalità calde (come rosso, arancione) e temperature più alte che generano tonalità fredde (come blu). |
+| Saturazione | La intensità o vivacità dei colori presenti nell'immagine. Un'alta saturazione rende i colori più vividi e accesi, mentre una bassa saturazione li rende più smorzati e meno distinti. |
+| Vividezza | La forza e la brillantezza generale dei colori. Una vividezza elevata conferisce un aspetto più vibrante e dinamico all'immagine, mentre una vividezza ridotta può creare un'atmosfera più delicata o vintage. |
+| Temperatura | La tonalità generale dei colori nell'immagine, che può variare da toni più caldi (come il rosso e l'arancione) a toni più freddi (come il blu e il verde). La temperatura del colore può influenzare l'umore e la percezione generale dell'immagine. |
+| Tinta | L'equilibrio tra i colori primari, rosso, verde e blu, nell'immagine. La regolazione della tintarella consente di modificare l'aspetto complessivo della tonalità dei colori, aggiungendo un tocco di calore o freddo all'immagine. |
+
 ---
 layout: image-right
 image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/13.png'
 ---
 
-# Nitidezza
+# Altre proprietà
 
-paragraph
+| Proprietà | Descrizione |
+|-----------|-------------|
+| Nitidezza | La chiarezza e la definizione dei dettagli nell'immagine. L'aggiunta di nitidezza aumenta la percezione dei bordi e dei contorni, migliorando la definizione complessiva dell'immagine. |
+| Definizione | La chiarezza e la distinzione dei dettagli presenti in un'immagine. La regolazione della definizione può influire sulla percezione della profondità e sulla distinzione tra gli oggetti, migliorando la qualità visiva dell'immagine. |
+| Riduzione del disturbo | La diminuzione della presenza di rumore o interferenze visive indesiderate nell'immagine. La riduzione del disturbo è spesso utilizzata per migliorare la qualità dell'immagine, specialmente in condizioni di illuminazione scarsa o quando si utilizzano valori ISO elevati. |
+| Vignettatura | Una graduale diminuzione della luminosità o della saturazione verso gli angoli dell'immagine. La vignettatura può essere utilizzata per attirare l'attenzione verso il centro dell'immagine o per creare un effetto artistico. |
 
 ---
 layout: image-right
@@ -297,43 +317,38 @@ image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/
 
 # HDR
 
-paragraph
+La tecnologia HDR (High Dynamic Range) mira a catturare e visualizzare un'ampia gamma dinamica di luminosità in un'immagine.
+
+- Questo processo coinvolge la combinazione di diverse esposizioni della stessa scena, catturando dettagli sia nelle aree più luminose che in quelle più scure.
+
+- L'obiettivo dell'HDR è rappresentare in modo più accurato la gamma di luminosità che l'occhio umano può percepire nella vita reale.
 
 ---
 layout: image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/15.png'
----
-
-# Bilanciamento del bianco
-
-paragraph
-
----
-layout: image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/16.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/14.png'
 ---
 
 # Colore selettivo
 
-paragraph
+descrizione
 
 ---
 layout: image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/17.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/14.png'
 ---
 
 # Ritocchi
 
-paragraph
+descrizione
 
 ---
 layout: image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/18.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/14.png'
 ---
 
-# Riduzione del disturbo
+# Riduzione del rumore
 
-paragraph
+descrizione
 
 ---
 
