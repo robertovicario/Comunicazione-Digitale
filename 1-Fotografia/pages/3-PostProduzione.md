@@ -54,7 +54,9 @@ I formati dei file svolgono un ruolo cruciale nel processo di editing, determina
 Formati comuni:
 
 - **JPG**: Compressione con perdita, adatto alla stampa digitale.
+
 - **PNG**: Compressione senza perdite, ideale per la grafica digitale.
+
 - **SVG**: Un formato di file basato su XML per descrivere la grafica vettoriale.
 
 ---
@@ -76,6 +78,7 @@ Formula:
 Dimensioni comuni:
 
 - **Full HD**: 1920x1080 pixel
+
 - **4K**: 3840x2160 pixel
 
 ---
@@ -97,6 +100,7 @@ Formula:
 Dimensioni comuni:
 
 - **Full HD**: 1920x1080 pixel
+
 - **4K**: 3840x2160 pixel
 
 ---
@@ -117,6 +121,7 @@ Formula:
 Dimensioni comuni:
 
 - **Full HD**: 1920x1080 pixel
+
 - **4K**: 3840x2160 pixel
 
 ---
@@ -140,7 +145,7 @@ layout: image-right
 image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/1.png'
 ---
 
-## Cut-and-resize
+# Cut-and-resize
 
 La tecnica del cut-and-resize rappresenta un approccio integrato che combina le azioni di ritagliare e ridimensionare prima di procedere con l'elaborazione di un'immagine.
 
@@ -334,7 +339,7 @@ descrizione
 
 ---
 layout: image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/14.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/15.png'
 ---
 
 # Ritocchi
@@ -343,7 +348,7 @@ descrizione
 
 ---
 layout: image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/14.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/16.png'
 ---
 
 # Riduzione del rumore
