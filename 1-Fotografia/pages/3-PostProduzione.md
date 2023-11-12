@@ -277,15 +277,21 @@ image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/
 
 # Luce
 
-| Proprietà | Descrizione |
-|-----------|-------------|
-| Esposizione | La quantità complessiva di luce che colpisce il sensore della fotocamera o l'occhio umano. Un'alta esposizione rende l'immagine più luminosa, mentre una bassa esposizione la rende più scura. |
-| Brillantezza | La qualità generale di luminosità di un'immagine, influenzata dalla combinazione di esposizione e intensità delle luci presenti. Una brillantezza elevata conferisce un aspetto vivace e radiante. |
-| Punti di luce | Le sorgenti luminose presenti nell'immagine, come riflessi, luci artificiali o naturali. Possono essere utilizzati per creare punti focali o aggiungere elementi di interesse. |
-| Ombre | Le aree più scure di un'immagine, create dalla presenza di oggetti opachi o da una distribuzione irregolare della luce. Le ombre contribuiscono a definire la profondità e la forma. |
-| Contrasto | La differenza di luminosità tra le parti più chiare e più scure di un'immagine. Un alto contrasto crea una distinzione accentuata tra i dettagli, mentre un basso contrasto produce un aspetto più morbido. |
-| Luminosità | La percezione globale di quanto un'immagine sia luminosa o oscura. Può essere regolata per modificare l'aspetto complessivo dell'immagine senza influenzare il contrasto. |
-| Punto nero | Il punto più scuro di un'immagine, spesso impostato per definire il livello massimo di scurità. La regolazione del punto nero può influire sulla profondità delle ombre e sull'aspetto generale delle aree più scure. |
+- **Esposizione**: Un'alta esposizione rende l'immagine più luminosa, mentre una bassa esposizione la rende più scura.
+- **Brillantezza**: Una brillantezza elevata conferisce un aspetto vivace e radiante.
+- **Punti di luce**: Le sorgenti luminose presenti nell'immagine, come riflessi, luci artificiali o naturali.
+- **Ombre**: Le ombre contribuiscono a definire la profondità e la forma.
+
+---
+layout: image-right
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/11.png'
+---
+
+# Luce
+
+- **Contrasto**: Un alto contrasto crea una distinzione accentuata tra i dettagli, mentre un basso contrasto produce un aspetto più morbido.
+- **Luminosità**: La percezione globale di quanto un'immagine sia luminosa o oscura.
+- **Punto nero**: Il punto più scuro di un'immagine, spesso impostato per definire il livello massimo di scurità.
 
 ---
 layout: image-right
@@ -294,12 +300,18 @@ image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/
 
 # Colori
 
-| Proprietà | Descrizione |
-|-----------|-------------|
-| Saturazione | La intensità o vivacità dei colori presenti nell'immagine. Un'alta saturazione rende i colori più vividi e accesi, mentre una bassa saturazione li rende più smorzati e meno distinti. |
-| Vividezza | La forza e la brillantezza generale dei colori. Una vividezza elevata conferisce un aspetto più vibrante e dinamico all'immagine, mentre una vividezza ridotta può creare un'atmosfera più delicata o vintage. |
-| Temperatura | La tonalità generale dei colori nell'immagine, che può variare da toni più caldi (come il rosso e l'arancione) a toni più freddi (come il blu e il verde). La temperatura del colore può influenzare l'umore e la percezione generale dell'immagine. |
-| Tinta | L'equilibrio tra i colori primari, rosso, verde e blu, nell'immagine. La regolazione della tintarella consente di modificare l'aspetto complessivo della tonalità dei colori, aggiungendo un tocco di calore o freddo all'immagine. |
+- **Saturazione**: Un'alta saturazione rende i colori più vividi e accesi, mentre una bassa saturazione li rende più smorzati e meno distinti.
+- **Vividezza**: Una vividezza elevata conferisce un aspetto più vibrante e dinamico all'immagine, mentre una vividezza ridotta può creare un'atmosfera più delicata o vintage.
+- **Temperatura**: La tonalità generale dei colori nell'immagine, che può variare da toni più caldi (come il rosso e l'arancione) a toni più freddi (come il blu e il verde).
+
+---
+layout: image-right
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/12.png'
+---
+
+# Colori
+
+- **Tinta**: La regolazione della tinta consente di modificare l'aspetto complessivo della tonalità dei colori, aggiungendo un tocco di calore o freddo all'immagine.
 
 ---
 layout: image-right
@@ -308,12 +320,11 @@ image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/
 
 # Altre proprietà
 
-| Proprietà | Descrizione |
-|-----------|-------------|
-| Nitidezza | La chiarezza e la definizione dei dettagli nell'immagine. L'aggiunta di nitidezza aumenta la percezione dei bordi e dei contorni, migliorando la definizione complessiva dell'immagine. |
-| Definizione | La chiarezza e la distinzione dei dettagli presenti in un'immagine. La regolazione della definizione può influire sulla percezione della profondità e sulla distinzione tra gli oggetti, migliorando la qualità visiva dell'immagine. |
-| Riduzione del disturbo | La diminuzione della presenza di rumore o interferenze visive indesiderate nell'immagine. La riduzione del disturbo è spesso utilizzata per migliorare la qualità dell'immagine, specialmente in condizioni di illuminazione scarsa o quando si utilizzano valori ISO elevati. |
-| Vignettatura | Una graduale diminuzione della luminosità o della saturazione verso gli angoli dell'immagine. La vignettatura può essere utilizzata per attirare l'attenzione verso il centro dell'immagine o per creare un effetto artistico. |
+- **Nitidezza**: L'aggiunta di nitidezza aumenta la percezione dei bordi e dei contorni, migliorando la definizione complessiva dell'immagine.
+
+- **Definizione**: La regolazione della definizione può influire sulla percezione della profondità e sulla distinzione tra gli oggetti, migliorando la qualità visiva dell'immagine.
+
+- **Vignettatura**: Una graduale diminuzione della luminosità o della saturazione verso gli angoli dell'immagine.
 
 ---
 layout: image-right
@@ -330,7 +341,7 @@ La tecnologia HDR (High Dynamic Range) mira a catturare e visualizzare un'ampia 
 
 ---
 layout: image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/14.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/15.png'
 ---
 
 # Colore selettivo
@@ -339,7 +350,7 @@ descrizione
 
 ---
 layout: image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/15.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/16.png'
 ---
 
 # Ritocchi
@@ -348,7 +359,7 @@ descrizione
 
 ---
 layout: image-right
-image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/16.png'
+image: 'https://raw.githubusercontent.com/robertovicario/Comunicazione-Digitale/main/1-Fotografia/img/3/17.png'
 ---
 
 # Riduzione del rumore
